@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Leaf Blight",
+    "name_hi": "पत्ती झुलसा",
+    "name_kn": "ಎಲೆ ರೋಗ",
+    "crops": ["rice", "wheat", "maize"],
+    "symptoms": ["brown spots on leaves", "yellowing", "wilting"],
+    "cause": "Fungal infection",
+    "treatment": "Spray Mancozeb 75% WP @ 2g/litre or Copper oxychloride 50% WP @ 3g/litre",
+    "treatment_hi": "मैनकोजेब 75% डब्ल्यूपी @ 2 ग्राम/लीटर या कॉपर ऑक्सीक्लोराइड 50% डब्ल्यूपी @ 3 ग्राम/लीटर का छिड़काव करें",
+    "treatment_kn": "ಮ್ಯಾನ್ಕೋಜೆಬ್ 75% WP @ 2g/ಲೀಟರ್ ಅಥವಾ ಕಾಪರ್ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ 50% WP @ 3g/ಲೀಟರ್ ಸಿಂಪಡಿಸಿ",
+    "prevention": "Use resistant varieties, proper drainage, crop rotation"
+  },
+  {
+    "name": "Powdery Mildew",
+    "name_hi": "चूर्णिल आसिता",
+    "name_kn": "ಪುಡಿ ರೋಗ",
+    "crops": ["tomato", "potato", "cotton"],
+    "symptoms": ["white powdery coating", "leaf curling", "stunted growth"],
+    "cause": "Fungal infection",
+    "treatment": "Spray Sulfur 80% WP @ 2-3g/litre or Carbendazim 50% WP @ 1g/litre",
+    "treatment_hi": "सल्फर 80% डब्ल्यूपी @ 2-3 ग्राम/लीटर या कार्बेन्डाजिम 50% डब्ल्यूपी @ 1 ग्राम/लीटर का छिड़काव करें",
+    "treatment_kn": "ಸಲ್ಫರ್ 80% WP @ 2-3g/ಲೀಟರ್ ಅಥವಾ ಕಾರ್ಬೆಂಡಾಜಿಮ್ 50% WP @ 1g/ಲೀಟರ್ ಸಿಂಪಡಿಸಿ",
+    "prevention": "Avoid overhead irrigation, ensure good air circulation"
+  },
+  {
+    "name": "Late Blight",
+    "name_hi": "पछेती अंगमारी",
+    "name_kn": "ತಡವಾದ ರೋಗ",
+    "crops": ["potato", "tomato"],
+    "symptoms": ["dark brown spots", "white mold", "rotting"],
+    "cause": "Fungal (Phytophthora)",
+    "treatment": "Spray Metalaxyl 8% + Mancozeb 64% WP @ 2.5g/litre",
+    "treatment_hi": "मेटालैक्सिल 8% + मैनकोजेब 64% डब्ल्यूपी @ 2.5 ग्राम/लीटर का छिड़काव करें",
+    "treatment_kn": "ಮೆಟಾಲಾಕ್ಸಿಲ್ 8% + ಮ್ಯಾನ್ಕೋಜೆಬ್ 64% WP @ 2.5g/ಲೀಟರ್ ಸಿಂಪಡಿಸಿ",
+    "prevention": "Remove infected plants, use disease-free seeds"
+  },
+  {
+    "name": "Bacterial Wilt",
+    "name_hi": "जीवाणु मुरझान",
+    "name_kn": "ಬ್ಯಾಕ್ಟೀರಿಯಾ ಬಾಡುವಿಕೆ",
+    "crops": ["tomato", "potato", "brinjal"],
+    "symptoms": ["sudden wilting", "yellowing leaves", "plant death"],
+    "cause": "Bacterial infection",
+    "treatment": "Remove infected plants, apply Streptocycline @ 0.5g/litre",
+    "treatment_hi": "संक्रमित पौधों को हटाएं, स्ट्रेप्टोसाइक्लिन @ 0.5 ग्राम/लीटर लगाएं",
+    "treatment_kn": "ಸೋಂಕಿತ ಸಸ್ಯಗಳನ್ನು ತೆಗೆದುಹಾಕಿ, ಸ್ಟ್ರೆಪ್ಟೋಸೈಕ್ಲಿನ್ @ 0.5g/ಲೀಟರ್ ಅನ್ವಯಿಸಿ",
+    "prevention": "Crop rotation, soil solarization, resistant varieties"
+  },
+  {
+    "name": "Root Rot",
+    "name_hi": "जड़ सड़न",
+    "name_kn": "ಬೇರು ಕೊಳೆತ",
+    "crops": ["cotton", "groundnut", "sugarcane"],
+    "symptoms": ["yellowing", "stunted growth", "root decay"],
+    "cause": "Soil-borne fungi",
+    "treatment": "Apply Trichoderma viride @ 5g/kg seed or soil drenching with Carbendazim",
+    "treatment_hi": "ट्राइकोडर्मा विरिडी @ 5 ग्राम/किलो बीज लगाएं या कार्बेन्डाजिम से मिट्टी की सिंचाई करें",
+    "treatment_kn": "ಟ್ರೈಕೋಡರ್ಮಾ ವಿರಿಡೆ @ 5g/kg ಬೀಜಕ್ಕೆ ಅನ್ವಯಿಸಿ ಅಥವಾ ಕಾರ್ಬೆಂಡಾಜಿಮ್ ಮಣ್ಣಿನ ನೀರಾವರಿ",
+    "prevention": "Improve drainage, use bio-fungicides"
+  },
+  {
+    "name": "Aphid Infestation",
+    "name_hi": "माहू संक्रमण",
+    "name_kn": "ಗಿಡಹೇನು ಸೋಂಕು",
+    "crops": ["cotton", "wheat", "vegetables"],
+    "symptoms": ["curled leaves", "sticky honeydew", "yellowing"],
+    "cause": "Insect pest",
+    "treatment": "Spray Imidacloprid 17.8% SL @ 0.5ml/litre or Dimethoate 30% EC @ 2ml/litre",
+    "treatment_hi": "इमिडाक्लोप्रिड 17.8% एसएल @ 0.5 मिली/लीटर या डाइमेथोएट 30% ईसी @ 2 मिली/लीटर का छिड़काव करें",
+    "treatment_kn": "ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ 17.8% SL @ 0.5ml/ಲೀಟರ್ ಅಥವಾ ಡೈಮಿಥೋಯೇಟ್ 30% EC @ 2ml/ಲೀಟರ್ ಸಿಂಪಡಿಸಿ",
+    "prevention": "Use yellow sticky traps, encourage natural predators"
+  }
+]

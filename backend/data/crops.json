@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Rice",
+    "name_hi": "धान",
+    "name_kn": "ಅಕ್ಕಿ",
+    "soil_types": ["clay", "loamy"],
+    "seasons": ["kharif", "monsoon"],
+    "water_requirement": "High - 1200-1500mm",
+    "fertilizers": ["Urea", "DAP", "Potash"],
+    "duration": "120-150 days",
+    "ideal_temp": "20-35°C",
+    "yield": "40-60 quintals/hectare"
+  },
+  {
+    "name": "Wheat",
+    "name_hi": "गेहूं",
+    "name_kn": "ಗೋಧಿ",
+    "soil_types": ["loamy", "clay"],
+    "seasons": ["rabi", "winter"],
+    "water_requirement": "Moderate - 450-650mm",
+    "fertilizers": ["NPK 20-20-20", "Urea"],
+    "duration": "120-140 days",
+    "ideal_temp": "15-25°C",
+    "yield": "35-50 quintals/hectare"
+  },
+  {
+    "name": "Cotton",
+    "name_hi": "कपास",
+    "name_kn": "ಹತ್ತಿ",
+    "soil_types": ["black", "loamy"],
+    "seasons": ["kharif", "summer"],
+    "water_requirement": "Moderate - 500-700mm",
+    "fertilizers": ["Urea", "SSP", "MOP"],
+    "duration": "150-180 days",
+    "ideal_temp": "21-30°C",
+    "yield": "20-30 quintals/hectare"
+  },
+  {
+    "name": "Tomato",
+    "name_hi": "टमाटर",
+    "name_kn": "ಟೊಮೇಟೊ",
+    "soil_types": ["loamy", "sandy"],
+    "seasons": ["all", "winter", "summer"],
+    "water_requirement": "Moderate - regular irrigation",
+    "fertilizers": ["Compost", "NPK 19-19-19"],
+    "duration": "60-90 days",
+    "ideal_temp": "20-30°C",
+    "yield": "250-400 quintals/hectare"
+  },
+  {
+    "name": "Potato",
+    "name_hi": "आलू",
+    "name_kn": "ಆಲೂಗಡ್ಡೆ",
+    "soil_types": ["loamy", "sandy"],
+    "seasons": ["rabi", "winter"],
+    "water_requirement": "Moderate - 500-700mm",
+    "fertilizers": ["FYM", "NPK 20-20-20"],
+    "duration": "90-120 days",
+    "ideal_temp": "15-25°C",
+    "yield": "200-300 quintals/hectare"
+  },
+  {
+    "name": "Maize",
+    "name_hi": "मक्का",
+    "name_kn": "ಮೆಕ್ಕೆಜೋಳ",
+    "soil_types": ["loamy", "sandy"],
+    "seasons": ["kharif", "rabi"],
+    "water_requirement": "Moderate - 500-800mm",
+    "fertilizers": ["Urea", "DAP"],
+    "duration": "80-110 days",
+    "ideal_temp": "21-27°C",
+    "yield": "30-50 quintals/hectare"
+  },
+  {
+    "name": "Groundnut",
+    "name_hi": "मूंगफली",
+    "name_kn": "ಕಡಲೆಕಾಯಿ",
+    "soil_types": ["sandy", "loamy"],
+    "seasons": ["kharif", "summer"],
+    "water_requirement": "Low - 500-600mm",
+    "fertilizers": ["Gypsum", "SSP"],
+    "duration": "100-120 days",
+    "ideal_temp": "25-30°C",
+    "yield": "15-25 quintals/hectare"
+  },
+  {
+    "name": "Sugarcane",
+    "name_hi": "गन्ना",
+    "name_kn": "ಕಬ್ಬು",
+    "soil_types": ["loamy", "clay"],
+    "seasons": ["all"],
+    "water_requirement": "Very High - 1500-2500mm",
+    "fertilizers": ["Urea", "SSP", "MOP"],
+    "duration": "10-12 months",
+    "ideal_temp": "20-35°C",
+    "yield": "600-900 quintals/hectare"
+  }
+]

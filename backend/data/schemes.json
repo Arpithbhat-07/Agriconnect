@@ -1,0 +1,74 @@
+[
+  {
+    "name": "PM-KISAN",
+    "name_hi": "प्रधानमंत्री किसान सम्मान निधि",
+    "name_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಕಿಸಾನ್ ಸಮ್ಮಾನ್ ನಿಧಿ",
+    "description": "Direct income support of ₹6000/year to all farmer families",
+    "description_hi": "सभी किसान परिवारों को ₹6000/वर्ष की प्रत्यक्ष आय सहायता",
+    "description_kn": "ಎಲ್ಲಾ ರೈತ ಕುಟುಂಬಗಳಿಗೆ ₹6000/ವರ್ಷ ನೇರ ಆದಾಯ ಬೆಂಬಲ",
+    "eligibility": "All landholding farmers",
+    "benefits": "₹2000 every 4 months (3 instalments)",
+    "applicable_states": ["all"],
+    "link": "https://pmkisan.gov.in/"
+  },
+  {
+    "name": "Fasal Bima Yojana",
+    "name_hi": "प्रधानमंत्री फसल बीमा योजना",
+    "name_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಫಸಲ್ ಬೀಮಾ ಯೋಜನೆ",
+    "description": "Crop insurance for farmers against crop loss",
+    "description_hi": "फसल नुकसान के खिलाफ किसानों के लिए फसल बीमा",
+    "description_kn": "ಬೆಳೆ ನಷ್ಟದ ವಿರುದ್ಧ ರೈತರಿಗೆ ಬೆಳೆ ವಿಮೆ",
+    "eligibility": "All farmers growing notified crops",
+    "benefits": "Up to 90% of sum insured",
+    "applicable_states": ["all"],
+    "link": "https://pmfby.gov.in/"
+  },
+  {
+    "name": "KCC - Kisan Credit Card",
+    "name_hi": "किसान क्रेडिट कार्ड",
+    "name_kn": "ಕಿಸಾನ್ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್",
+    "description": "Credit facility for farmers at subsidized interest rates",
+    "description_hi": "रियायती ब्याज दरों पर किसानों के लिए ऋण सुविधा",
+    "description_kn": "ಸಬ್ಸಿಡಿ ಬಡ್ಡಿ ದರಗಳಲ್ಲಿ ರೈತರಿಗೆ ಸಾಲ ಸೌಲಭ್ಯ",
+    "eligibility": "Farmers, tenant farmers, sharecroppers",
+    "benefits": "Credit up to ₹3 lakhs at 4% interest",
+    "applicable_states": ["all"],
+    "link": "https://www.india.gov.in/spotlight/kisan-credit-card-kcc"
+  },
+  {
+    "name": "Soil Health Card Scheme",
+    "name_hi": "मृदा स्वास्थ्य कार्ड योजना",
+    "name_kn": "ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾರ್ಡ್ ಯೋಜನೆ",
+    "description": "Free soil testing and health cards for farmers",
+    "description_hi": "किसानों के लिए मुफ्त मिट्टी परीक्षण और स्वास्थ्य कार्ड",
+    "description_kn": "ರೈತರಿಗೆ ಉಚಿತ ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮತ್ತು ಆರೋಗ್ಯ ಕಾರ್ಡ್‌ಗಳು",
+    "eligibility": "All farmers",
+    "benefits": "Free soil testing every 3 years",
+    "applicable_states": ["all"],
+    "link": "https://soilhealth.dac.gov.in/"
+  },
+  {
+    "name": "Raitha Shakti (Karnataka)",
+    "name_hi": "रायथा शक्ति (कर्नाटक)",
+    "name_kn": "ರೈತ ಶಕ್ತಿ (ಕರ್ನಾಟಕ)",
+    "description": "Subsidy on farm equipment and machinery",
+    "description_hi": "कृषि उपकरण और मशीनरी पर सब्सिडी",
+    "description_kn": "ಕೃಷಿ ಉಪಕರಣಗಳು ಮತ್ತು ಯಂತ್ರೋಪಕರಣಗಳ ಮೇಲೆ ಸಬ್ಸಿಡಿ",
+    "eligibility": "Karnataka farmers",
+    "benefits": "Up to 50% subsidy on equipment",
+    "applicable_states": ["karnataka"],
+    "link": "https://raitamitra.karnataka.gov.in/"
+  },
+  {
+    "name": "Pradhan Mantri Krishi Sinchai Yojana",
+    "name_hi": "प्रधानमंत्री कृषि सिंचाई योजना",
+    "name_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಕೃಷಿ ಸಿಂಚಾಯಿ ಯೋಜನೆ",
+    "description": "Subsidy on irrigation equipment like drip and sprinkler",
+    "description_hi": "ड्रिप और स्प्रिंकलर जैसे सिंचाई उपकरण पर सब्सिडी",
+    "description_kn": "ಡ್ರಿಪ್ ಮತ್ತು ಸ್ಪ್ರಿಂಕ್ಲರ್ ನಂತಹ ನೀರಾವರಿ ಉಪಕರಣಗಳ ಮೇಲೆ ಸಬ್ಸಿಡಿ",
+    "eligibility": "All farmers",
+    "benefits": "Up to 75% subsidy",
+    "applicable_states": ["all"],
+    "link": "https://pmksy.gov.in/"
+  }
+]

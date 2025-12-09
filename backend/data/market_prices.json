@@ -1,0 +1,102 @@
+[
+  {
+    "crop": "Rice",
+    "crop_hi": "धान",
+    "crop_kn": "ಅಕ್ಕಿ",
+    "location": "Bangalore",
+    "price": 2800,
+    "unit": "per quintal",
+    "date": "2025-10-09",
+    "market": "APMC Yeshwanthpur"
+  },
+  {
+    "crop": "Wheat",
+    "crop_hi": "गेहूं",
+    "crop_kn": "ಗೋಧಿ",
+    "location": "Delhi",
+    "price": 2500,
+    "unit": "per quintal",
+    "date": "2025-10-09",
+    "market": "Azadpur Mandi"
+  },
+  {
+    "crop": "Cotton",
+    "crop_hi": "कपास",
+    "crop_kn": "ಹತ್ತಿ",
+    "location": "Mumbai",
+    "price": 6200,
+    "unit": "per quintal",
+    "date": "2025-10-09",
+    "market": "Vashi APMC"
+  },
+  {
+    "crop": "Tomato",
+    "crop_hi": "टमाटर",
+    "crop_kn": "ಟೊಮೇಟೊ",
+    "location": "Bangalore",
+    "price": 1500,
+    "unit": "per quintal",
+    "date": "2025-10-09",
+    "market": "KR Market"
+  },
+  {
+    "crop": "Potato",
+    "crop_hi": "आलू",
+    "crop_kn": "ಆಲೂಗಡ್ಡೆ",
+    "location": "Bangalore",
+    "price": 1800,
+    "unit": "per quintal",
+    "date": "2025-10-09",
+    "market": "Binny Mill APMC"
+  },
+  {
+    "crop": "Maize",
+    "crop_hi": "मक्का",
+    "crop_kn": "ಮೆಕ್ಕೆಜೋಳ",
+    "location": "Hyderabad",
+    "price": 2200,
+    "unit": "per quintal",
+    "date": "2025-10-09",
+    "market": "Gaddiannaram Market"
+  },
+  {
+    "crop": "Groundnut",
+    "crop_hi": "मूंगफली",
+    "crop_kn": "ಕಡಲೆಕಾಯಿ",
+    "location": "Ahmedabad",
+    "price": 5500,
+    "unit": "per quintal",
+    "date": "2025-10-09",
+    "market": "Unjha Market"
+  },
+  {
+    "crop": "Sugarcane",
+    "crop_hi": "गन्ना",
+    "crop_kn": "ಕಬ್ಬು",
+    "location": "Pune",
+    "price": 3200,
+    "unit": "per tonne",
+    "date": "2025-10-09",
+    "market": "Market Yard"
+  },
+  {
+    "crop": "Onion",
+    "crop_hi": "प्याज",
+    "crop_kn": "ಈರುಳ್ಳಿ",
+    "location": "Nashik",
+    "price": 2000,
+    "unit": "per quintal",
+    "date": "2025-10-09",
+    "market": "Lasalgaon APMC"
+  },
+  {
+    "crop": "Banana",
+    "crop_hi": "केला",
+    "crop_kn": "ಬಾಳೆಹಣ್ಣು",
+    "location": "Chennai",
+    "price": 1200,
+    "unit": "per quintal",
+    "date": "2025-10-09",
+    "market": "Koyambedu Market"
+  }
+]
